@@ -32,7 +32,7 @@ Al pulsar el boton de  ⚙️ "Configuracion" o "Engranaje" ⚙️ se cambia el 
 
 
 ### 𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐀𝐌𝐈𝐄𝐍𝐓𝐎🔧
-La aguja imantada indica la dirección del campo magnético terrestre, apuntando hacia los polos norte y sur. 🧭🧭🧭🧭
+La aguja imantada indica la dirección del campo magnético terrestre, apuntando hacia los polos norte y sur. 🧭🧭🧭�
 Solamente gire su telefono celular y vera a que punto cardinal se esta dirigiendo.
 
 
