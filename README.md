@@ -30,6 +30,7 @@ USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### 𝑻𝑬𝑴𝑨𝑺
+Al pulsar el boton de "Configuracion" o "Engranaje" se cambia el tema de tu brujula, estos son los temas existentes
 ![Image](https://github.com/nikomaufro/pag-web/blob/main/manoedit.png?raw=true)  ![Image]()  ![Image]()
 ### 𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐀𝐌𝐈𝐄𝐍𝐓𝐎
 La aguja imantada indica la dirección del campo magnético terrestre, apuntando hacia los polos norte y sur. 🧭🧭🧭🧭
