@@ -3,7 +3,7 @@
 USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA YA ESTA MAGINIFICA BRUJULA
 
 
-![Image](https://github.com/nikomaufro/pag-web/blob/main/screenshot%20(2).jpeg?raw=true)
+![Image](https://github.com/nikomaufro/pag-web/blob/main/BRUJUL%C3%91A.jpg?raw=true)
 
 ### DESCARGA YA:
 
