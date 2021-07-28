@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### 𝑻𝑬𝑴𝑨𝑺 ⚙️
 Al pulsar el boton de  ⚙️ "Configuracion" o "Engranaje" ⚙️ se cambia el tema de tu brujula, estos son los temas existentes
 
-![Image](https://github.com/nikomaufro/pag-web/blob/main/BEN10.jpeg?raw=true)  ![Image]()  ![Image]()
+![Image](https://github.com/nikomaufro/pag-web/blob/main/BEN10.jpeg?raw=true)  ![Image](https://github.com/nikomaufro/pag-web/blob/main/BRUJU1.jpeg?raw=true)  ![Image]()
 ### 𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐀𝐌𝐈𝐄𝐍𝐓𝐎
 La aguja imantada indica la dirección del campo magnético terrestre, apuntando hacia los polos norte y sur. 🧭🧭🧭🧭
 
