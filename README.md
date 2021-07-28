@@ -1,7 +1,7 @@
 ## PROYECTO UFRO - BRUJULA
 
 USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA YA ESTA MAGINIFICA BRUJULA
-[Image](https://prnt.sc/1h6g7md)
+[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Fresultado-de-imagen-para-boton-de-descarga-PNG-free-PNG-Images_407559&psig=AOvVaw3pMnVem7gw_YvdYy1kmcjB&ust=1627584775273000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLClnPu3hvICFQAAAAAdAAAAABAE)
 
 ### Markdown
 
