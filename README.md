@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## PROYECTO UFRO - BRUJULA
 
 You can use the [editor on GitHub](https://github.com/nikomaufro/pag-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
