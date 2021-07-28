@@ -7,7 +7,7 @@ USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA
 
 ### DESCARGA YA:
 
-[Link] 
+[Link](https://github.com/nikomaufro/pag-web/raw/main/Brujula.apk) 
 
 
 
