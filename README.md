@@ -9,8 +9,8 @@ USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA
 
 [Link] 
 
-```markdown
-Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
