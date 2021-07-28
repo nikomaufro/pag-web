@@ -3,7 +3,7 @@
 USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA YA ESTA MAGINIFICA BRUJULA
 
 
-![Image](https://mpng.subpng.com/20180730/zeq/kisspng-font-awesome-computer-icons-download-computer-soft-hard-work-icon-5b5ebc2044e162.9322626115329352002822.jpg)
+![Image](https://raw.githubusercontent.com/nikomaufro/pag-web/main/botondescarga.png)
 
 ### DESCARGA YA:
 
