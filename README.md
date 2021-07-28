@@ -13,20 +13,14 @@ USA ESTA MAGNIFICA BRUJULA PARA QUE NO TE PIERDAS DE CAMINO A TU HOGAR, DESCARGA
 
 
 ```
-# Header 1
-## Header 2
-### Header 3
+Informacion: 
 
-- Bulleted
-- List
-😀😀😀😀
+-Este proyecto trata de una aplicacion de brujula y usa el sensor de "ORIENTACION" o "GIROSCOPIO".
 
-1. Numbered
-2. List
+-La creacion de esta app se hizo con "APPINVENTOR".
 
-**Bold** and _Italic_ and `Code` text
+-La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
 
-[Link](url) and ![Image](src)
 ```
 
 
@@ -40,7 +34,11 @@ Solamente gire su telefono celular y vera a que punto cardinal se esta dirigiend
 
 ### 𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑶 📞💻
 
-Los desarrollos de la app y pagina web son: 
-a.rojas11@ufromail.cl(Desarrollo de app) 
-n.munoz11@ufromail.cl(Desarollo de pagina web) 
-d.torres17@ufromail.cl(Desarrollo presentacion y Apoyo pagina web)
+Los desarrollos de la app y pagina web son:
+
+a.rojas11@ufromail.cl (Desarrollo de app) 
+n.munoz11@ufromail.cl (Desarollo de pagina web) 
+d.torres17@ufromail.cl (Desarrollo presentacion y Apoyo pagina web)
+
+
+
