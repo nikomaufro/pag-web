@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### FUNCIONAMIENTO
+### 𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐀𝐌𝐈𝐄𝐍𝐓𝐎
 La aguja imantada indica la dirección del campo magnético terrestre, apuntando hacia los polos norte y sur. 🧭🧭🧭🧭
 
 ### Support or Contact
