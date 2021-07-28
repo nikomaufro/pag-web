@@ -36,7 +36,7 @@ Al pulsar el boton de "Configuracion" o "Engranaje" se cambia el tema de tu bruj
 ### 𝐅𝐔𝐍𝐂𝐈𝐎𝐍𝐀𝐌𝐈𝐄𝐍𝐓𝐎
 La aguja imantada indica la dirección del campo magnético terrestre, apuntando hacia los polos norte y sur. 🧭🧭🧭🧭
 
-### Support or Contact
+### 𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑶
 
 para hablar con un desarrollador de la pagina escribe a alguno de los siguientes correos: 
 a.rojas11@ufromail.cl  n.munoz11@ufromail.cl  d.torres17@ufromail.cl
