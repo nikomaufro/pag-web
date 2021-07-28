@@ -36,4 +36,4 @@ La aguja imantada indica la dirección del campo magnético terrestre, apuntando
 ### Support or Contact
 
 para hablar con un desarrollador de la pagina escribe a alguno de los siguientes correos: 
-a.rojas11@ufromail.cl--n.munoz11@ufromail.cl--d.torres17@ufromail.cl
+a.rojas11@ufromail.cl  n.munoz11@ufromail.cl  d.torres17@ufromail.cl
