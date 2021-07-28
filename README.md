@@ -41,11 +41,11 @@ Solamente gire su telefono celular y vera a que punto cardinal se esta dirigiend
 
 Los desarrollos de la app y pagina web son:
 
-ALONSO ROJAS:  a.rojas11@ufromail.cl (Desarrollo de app) 
+ALONSO ROJAS:  a.rojas11@ufromail.cl (Desarrollo de app) 📱🔨
 
-NICOLAS MUÑOZ: n.munoz11@ufromail.cl (Desarollo de pagina web) 
+NICOLAS MUÑOZ: n.munoz11@ufromail.cl (Desarollo de pagina web) 💻🔨
 
-DANKO TORRES: d.torres17@ufromail.cl (Desarrollo presentacion y Apoyo pagina web)
+DANKO TORRES: d.torres17@ufromail.cl (Desarrollo presentacion y Apoyo pagina web) 📄🔨
 
 
 
