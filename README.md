@@ -26,7 +26,7 @@ Informacion:
 <p>&nbsp;</p>
 
 ### 𝑻𝑬𝑴𝑨𝑺 ⚙️
-Al pulsar el boton de  ⚙️ "Configuracion" o "Engranaje" ⚙️ se cambia el tema de tu brujula, estos son los temas existentes
+Al pulsar el boton de  ⚙️ "Configuracion" o "Engranaje" ⚙️ se cambia el tema de tu brujula, estos son los temas existentes:
 
 ![Image](https://github.com/nikomaufro/pag-web/blob/main/BEN10.jpeg?raw=true)  ![Image](https://github.com/nikomaufro/pag-web/blob/main/BRUJU1.jpeg?raw=true)  ![Image](https://github.com/nikomaufro/pag-web/blob/main/BRUJU2.jpeg?raw=true)
 
