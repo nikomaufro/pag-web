@@ -51,7 +51,7 @@ DANKO TORRES: d.torres17@ufromail.cl (Desarrollo presentacion y Apoyo pagina web
 
 
 <p>&nbsp;</p>
-### 𝑵𝑼𝑬𝑺𝑻𝑹𝑶 𝑶𝑹𝑮𝑼𝑳𝑳𝑶
+### 𝑵𝑼𝑬𝑺𝑻𝑹𝑶 𝑶𝑹𝑮𝑼𝑳𝑳𝑶 👽
 <p>&nbsp;</p>
 TEMA BEN 10:
 <p>&nbsp;</p>
