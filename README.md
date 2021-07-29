@@ -40,7 +40,7 @@ Solamente gire su telefono celular y vera a que punto cardinal se esta dirigiend
 
 ### 𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑶 📞💻
 
-Los desarrollos de la app y pagina web son:
+Los desarrolladores de la app y pagina web son:
 
 ALONSO ROJAS:  a.rojas11@ufromail.cl (Desarrollo de app) 📱🔨
 
